@@ -1,4 +1,4 @@
-# tapioka.vim
+# tapioca.vim
 This is a tapioka plugin for all tapioka lovers.
 
 ![](https://i.imgur.com/Up93dk7.gif)
